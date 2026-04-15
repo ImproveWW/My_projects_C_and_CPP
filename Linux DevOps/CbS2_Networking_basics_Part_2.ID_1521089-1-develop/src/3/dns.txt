@@ -1,0 +1,2 @@
+1. Type: A (1) (Host Address)
+   Class: IN (0x0001)
